@@ -99,6 +99,36 @@
         "locked": false,
         "readtime": 1
       }
+    },
+    {
+      "id": "item-c7740788-8239-4f32-883a-5e81e427112e",
+      "indent": 0,
+      "location": "pages/item-c7740788-8239-4f32-883a-5e81e427112e/index.html",
+      "slug": "page-1",
+      "order": 2,
+      "parent": null,
+      "title": "Sehat Muslim",
+      "description": "\n\n\n",
+      "metadata": {
+        "created": 1743046668,
+        "updated": 1743046897,
+        "images": {},
+        "videos": {},
+        "files": [
+          {
+            "path": "/home/wildanhabib/sehat/files/Teh-tawar-manis-600x600.jpg",
+            "fullUrl": "//home/wildanhabib/sehat/files/Teh-tawar-manis-600x600.jpg",
+            "url": "files/Teh-tawar-manis-600x600.jpg",
+            "type": "image/jpeg",
+            "name": "Teh-tawar-manis-600x600.jpg",
+            "size": 51880
+          }
+        ],
+        "published": true,
+        "hideInMenu": false,
+        "locked": false,
+        "readtime": 1
+      }
     }
   ]
 }
